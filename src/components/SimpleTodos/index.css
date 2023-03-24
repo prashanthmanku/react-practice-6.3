@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.bg-conteiner {
+  background-color: #ffc2a0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+.todos-card {
+  background-color: #ffffff;
+  width: 90%;
+  max-width: 700px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 23px;
+  padding-right: 23px;
+}
+.todos-list-container {
+  list-style-type: none;
+  padding-left: 0px;
+}
+h1 {
+  color: #ff8542;
+  font-size: 30px;
+}

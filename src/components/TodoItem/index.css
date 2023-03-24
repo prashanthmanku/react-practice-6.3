@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.todo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+p {
+  color: #000000;
+  font-size: 16px;
+  font-weight: 400;
+  margin-right: 30px;
+}
+button {
+  background-color: transparent;
+  color: #ff0b37;
+  border: 1px solid #ff0b37;
+  font-size: 13px;
+  border-radius: 7px;
+  padding-left: 13px;
+  padding-right: 13px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  cursor: pointer;
+  outline: none;
+}
